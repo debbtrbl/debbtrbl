@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ADD1E1&section=header"/>
 
-<p align="center">
+<h1 align="center">
 oi, eu sou a débora 👩🏻‍💻
-</p>
+</h1>
 
 <p align="center">
   desenvolvimento • dados & machine learning
