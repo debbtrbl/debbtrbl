@@ -5,7 +5,7 @@ oi, eu sou a débora 👩🏻‍💻
 </h1>
 
 <p align="center">
-  desenvolvimento • dados & machine learning
+  desenvolvimento • dados & qualidade
 </p>
 
 ---
